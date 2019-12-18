@@ -1,0 +1,14 @@
+h1{
+  color: red;
+}
+*{
+  font-family: cursive;
+}
+.active {
+border-width: 2px;
+border-style: solid;
+border-color: black;
+}
+body {
+  background: white url(http://images6.fanpop.com/image/photos/42700000/Guts-berserk-the-anime-manga-42723571-2048-2048.jpg)repeat top right
+}
